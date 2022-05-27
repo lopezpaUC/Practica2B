@@ -1,4 +1,5 @@
 Cerveza
 Pan
 Vino
+Galletas
 Chorizo
