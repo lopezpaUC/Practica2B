@@ -1,2 +1,2 @@
-# Practica2B - Pruebas
+# Practica2B
 
